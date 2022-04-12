@@ -2,20 +2,12 @@
 
 // UCAPAN WELCOME
 exports.welkam = () => {
-	return `Intro Dulu Yuk Biar Keren 🤙
-
-📛 Nama : 
-🔞 Umur :
-🏙️ Askot :
-
-Semoga Kamu Senang Berada Disini
-Serta Jangan Lupa Untuk Membaca
-Dan Mematuhi Rules Yang Ada
+	return `
 `
 }
 
 // UCAPAN GOODBYE
 exports.goodbye = () => {
-	return `Manusia Setres Telah Keluar Dari Group 🙀
+	return `
 `
 }
