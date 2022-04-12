@@ -455,7 +455,7 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 //MENU AWAL
 exports.smenu = (pushname) => {
 	return`Halo Kak *${pushname}* 👋
-Saya Adalah *Kyuraz MD* Yang Direcode Oleh Ryuuka Team Menggunakan Base Dari Dika Ardnt (Hisoka-Morou)
+Saya Adalah *Kyuraz MD* Siap Membantu Anda
 
 Perlu Diketahui Bot Ini Memakai Program Multi Device Beta Dari WhatsApp Messenger.
 
